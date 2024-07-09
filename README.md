@@ -4,7 +4,7 @@
 ## I’m a Front-end Developer, Hanna Lee 👩🏻‍💻
   
 <br/>
-<img src="image/cute.jpeg" width="200">
+<img src="image/me2.png" width="200">
 <br/>
   <br/>
   
